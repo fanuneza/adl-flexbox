@@ -23,7 +23,7 @@ Puedes ver el resultado publicado en GitHub Pages aquí:
 - Logo y textos centrados en la sección principal.
 - Lista de contactos en columna con Flexbox.
 - Cada contacto incluye **avatar + último mensaje** alineados con Flexbox.
-- Botón **“Nuevo Chat”** centrado bajo la barra de usuario.
+- Botón **“Nuevo Chat”** centrado sobre la lista de conversaciones.
 - Barra de estado del usuario con imagen e íconos.
 
 ---
